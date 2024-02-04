@@ -1,24 +1,12 @@
 
 # tharuncalllogaccessproject
 ### Table of contents
-- [System requirements](#system-requirements)
-- [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
-- [Check the UI of the entire app](#app-navigations)
-- [Application structure](#project-structure)
-- [How to format your code?](#how-you-can-do-code-formatting)
-- [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
-- [Libraries and tools used](#libraries-and-tools-used)
-- [Support](#support)
+access call logs using flutter
 
-### System requirements
+A flutter application to access latest call log from phone .
 
-Dart SDK Version 2.18.0 or greater.
-Flutter SDK Version 3.3.0 or greater.
-
-### Figma design guidelines for better UI accuracy
-
-Read our guidelines to increase the accuracy of design-to-code conversion by optimizing Figma designs.
-https://docs.dhiwise.com/docs/Designguidelines/intro
+Getting Started
+step 1 : Go to your terminal and write flutter pub get step 2 : Connect your device and run the application
 
 ### Check the UI of the entire app
 
@@ -49,11 +37,3 @@ After successful build, your application structure should look like this:
   ```
   dart format .
   ```
-
-### How you can improve code readability?
-
-Resolve the errors and warnings that are shown in the application.
-
-### Support
-
-If you have any problems or questions, go to our Discord channel, where we will help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
